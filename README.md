@@ -8,6 +8,12 @@
 
 The application features a modern **glassmorphic design system** with a built-in theme toggle (premium Dark/Light modes), smooth hover micro-animations, and dynamic progress indicators.
 
+### 🏠 Home Page
+![The Saviour Home Page](public/home-screenshot.png)
+
+### ✍️ Start Campaign Page
+![Create Campaign Page](public/form-screenshot.png)
+
 *   **Campaigns Grid**: Visual cards with category filtering (Health, Education, Animal) and live percentage funded bars.
 *   **Decentralized Details Page**: Shows the campaign story from IPFS, goals, contribution details, and lists of contributors.
 *   **Smooth Integration**: Easy connection for Web3 wallets with automatic network verification.
