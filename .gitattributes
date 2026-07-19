@@ -1,0 +1,3 @@
+# Exclude all JavaScript files from GitHub language statistics
+*.js linguist-detectable=false
+**/*.js linguist-detectable=false
